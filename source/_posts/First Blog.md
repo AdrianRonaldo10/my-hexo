@@ -1,3 +1,6 @@
+---
+title: First Blog
+---
 this is my first blog
 
 however I don't know what to write down
