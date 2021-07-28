@@ -1,5 +1,5 @@
 ---
-title:The download and configuration of LNMP
+title: The download and configuration of LNMP
 ---
 
 ## Pre-words
